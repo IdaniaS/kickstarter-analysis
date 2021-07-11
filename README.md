@@ -8,3 +8,5 @@ The purpose of this analysis was to determine how different campaigns fared in r
 ## Analysis and Challenges
 
 ## Results
+
+https://github.com/IdaniaS/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
