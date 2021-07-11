@@ -5,9 +5,9 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## Overview
 ### Background
-Louise's created a play _Fever_ that came close to its fundraising goal in a short amount of time. There is a variety of launch dates for each campaign and the funding results ranged from successful, failed or canceled.
+Louise's created a play _Fever_ that came close to its fundraising goal in a short amount of time. Play launch dates continue throughout the year and for each campaign the funding results ranged from successful, failed or canceled.
 ### Purpose
-The purpose of this analysis was to determine how different play campaigns fared in relation to their launch dates and their funding goals. Complaring and anaylizing the data to determine the best time and goal for a campaign.
+The purpose of this analysis is to determine how different play campaigns fared in relation to their launch dates and their funding goals. Complaring and anaylizing the data to determine the best time and goal for a campaign.
 
 
 ## Analysis and Challenges
