@@ -7,6 +7,8 @@ Louise's created a play Fever that came close to its fundraising goal in a short
 The purpose of this analysis was to determine how different campaigns fared in relation to their launch dates and their funding goals.
 ## Analysis and Challenges
 
+- outliers?
+
 ## Results
 
 https://github.com/IdaniaS/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png (Outcomes vs Goals)
