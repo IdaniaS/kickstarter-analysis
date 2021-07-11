@@ -4,7 +4,7 @@ Performing analysis on Kickstarter data to uncover trends
 ### Background
 Louise's created a play Fever that came close to its fundraising goal in a short amount of time. There is a variety of launch dates for each theater campaign and the funding results ranged from successful, failed or canceled.
 ### Purpose
-The purpose of this analysis was to determine how different campaigns fared in relation to their launch dates and their funding goals.
+The purpose of this analysis was to determine how different theater campaigns fared in relation to their launch dates and their funding goals.
 ## Analysis and Challenges
 The analysis of the dataset started with an initial look at the data. Once the data was filtered and formatted the next step was to determine the [Theater Outcomes by Launch Date](https://github.com/IdaniaS/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png). The chart provided insight to which months had the most successful results.
 A challenge presented itself when the dataset was impacted by outliers. Outliers are extreme points of data that can be much larger or smaller than the rest of the data presenting skewed results. This challenge of outliers can be overcame by using the Median and IQR. The IQR refers to the Interquartile Range. This is a guideline used to determine outliers that have a value greater than the upper quartile plus 1.5*IQR or any value less than the lower quartile minus 1.5*IQR.
