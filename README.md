@@ -12,5 +12,5 @@ A challenge presented itself when the dataset was impacted by outliers. Outliers
 ## Results
 
 https://github.com/IdaniaS/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png (Outcomes vs Goals)
-https://github.com/IdaniaS/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png  (Theater Outcomes)
+https://github.com/IdaniaS/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png (Theater Outcomes)
 https://github.com/IdaniaS/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlsx (Excel file)
