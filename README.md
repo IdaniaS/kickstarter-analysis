@@ -9,5 +9,5 @@ The purpose of this analysis was to determine how different campaigns fared in r
 
 ## Results
 
-https://github.com/IdaniaS/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
+https://github.com/IdaniaS/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png (Outcomes vs Goals)
 https://github.com/IdaniaS/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png  (Theater Outcomes)
